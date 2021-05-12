@@ -6,7 +6,9 @@ Módulo 1
 - 3º Exercício: Rafael Alexandre
 - 4º Exercício: Rafael Alexandre
 - 5º Exercício: Vinícius Ribeiro
-- 6º Exercício: Moacir ;
-- 7º Exercício: Moacir:
-Módulo 2: Alexsander Arcelino;  
+- 6º Exercício: Moacir
+- 7º Exercício: Moacir
+
+Módulo 2: Alexsander Arcelino
+
 Módulo 3: Francisco Israel de Oliveira
