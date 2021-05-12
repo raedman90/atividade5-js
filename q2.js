@@ -1,4 +1,4 @@
-const usuarios = [
+const usuarios =[
     { name: 'Diego', idade: 23, cpf:'111.111.111-11', empresa: 'Rocketseat' },
     { name: 'Gabriel', idade: 15, cpf:'111.111.111-12', empresa: 'Rocketseat' },
     { name: 'Lucas', idade: 30, cpf:'111.111.111-13', empresa: 'Facebook' },
