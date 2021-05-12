@@ -1,15 +1,15 @@
-class Usuario {
-    constructor(email, password) {
+class Usuario{
+    constructor(email, password){
         this.email = email;
         this.password = password;
     }
-    isAdmin() {
+    isAdmin(){
         return this.admin === true;
     }
 
 }
 
-class Admin extends Usuario {
+class Admin extends Usuario{
         admin = true;
 }
 
